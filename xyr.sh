@@ -14,7 +14,7 @@ finishlogo='
 				by 云免流控™ 2017-03-08
 ============================================================';
 http='https://';
-host='raw.githubusercontent.com/QHDS/xyr/master/';
+host='raw.githubusercontent.com/949418061/OpenVPN-server/';
 vpnfile=xyr/;
 sq=squid.conf;
 squser=auth_user;
